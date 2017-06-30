@@ -10,9 +10,7 @@ CPF;
 CNPJ;
 Telefone;
 E-mail;
-Se 
-
-
+Campo vazio;
 
 Exemplo de utilização:
 
